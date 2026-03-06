@@ -10,9 +10,9 @@ This folder contains four files participants are expected to modify and submit f
 
 Additionally, participants should revise the Readme.md to include the following data:
 
-#-------------------------------------
+
 # PARTICIPANT INFO:
-#-------------------------------------
+
 # Name(s) and Organization(s):
 Insert name(s) and corresponding organization(s) here
 
@@ -26,87 +26,78 @@ Insert POC phone here
 Insert POC address here
  
 
-#-------------------------------------
 # SOLVER INFORMATION:
-#-------------------------------------
-# Solver Name and Version:
+
+## Solver Name and Version:
 Insert solver name and version here
 
-# Basic Algorithm:  
+## Basic Algorithm:  
 Insert relevant details about algorithm here
 
-# Turbulence Model:  
+## Turbulence Model:  
 Insert details about turbulence model here (if applicable)
 
-# Transition Method:
+## Transition Method:
 Insert details about transition model or method (if applicable)
 
-# Convergence Criteria:
+## Convergence Criteria:
 Insert convergence criteria here (if applicable)
 
-# Miscellaneous:  
+## Miscellaneous:  
 Insert any other information about the code/solver here
 
+# Test Case 1 GRID & SOLUTION INFO (CRM-HLS)
 
-#-------------------------------------
-# Case 2.1 GRID & SOLUTION INFO (CRM-HL-WBHV)
-#-------------------------------------
-# Name of committee-supplied grid used (if other, supply the info below):
+## Name of committee-supplied grid used (if other, supply the info below):
 Insert name of committee-supplied grid here
 
-#-------------------------------------
-# For non-committee grids...
-# Grid-Generator Name and Version:  
+
+For non-committee grids...
+## Grid-Generator Name and Version:  
 Insert grid generator name and version here
 
-# Type (str, overset, unstr, etc):  
+## Type (str, overset, unstr, etc):  
 Insert grid type here
 
-# Number of Total Nodes:  
+## Number of Total Nodes:  
 Insert number of nodes here (multiple lines if grid convergence study was done)
 
-# Number of Total Cells:
+## Number of Total Cells:
 Insert number of cells here (multiple lines if grid convergence study was done)
 
-# Miscellaneous:  
+## Miscellaneous:  
 Insert any other information about the grids or solution procedure(s) used for Case 2.1 here
 
-
-#-------------------------------------
 # "TYPICAL" SOLUTION PERFORMANCE INFORMATION 
-#-------------------------------------
-# Grid size:
+## Grid size:
 Insert the grid size here that was used for providing the subsequent statistics
 
-# Computer Platform:  
+## Computer Platform:  
 Insert computer platform here
 
-# Number of Processors:  
+## Number of Processors:  
 Insert number of processors here
 
-# Operating System:  
+## Operating System:  
 Insert operating system here
 
-# Compiler:  
+## Compiler:  
 Insert compiler here
 
-# Run Time CPU:  
+## Run Time CPU:  
 Insert CPU run time here
 
-# Run Time Wall-Clock:  
+## Run Time Wall-Clock:  
 Insert wall-clock time here
 
-# Memory Requirements:  
+## Memory Requirements:  
 Insert memory requirements here
 
-# Convergence Details
+## Convergence Details
 Insert convergence information here (if applicable)
 
-# Miscellaneous:
+## Miscellaneous:
 Insert miscellaneous information here regarding solution performance
 
-
-#-------------------------------------
 # OTHER
-#-------------------------------------
 Provide any other information desired here
